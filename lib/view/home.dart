@@ -15,7 +15,7 @@ class _HomeScreenState extends State<HomeScreen> {
     TodoViewModel todo = Provider.of<TodoViewModel>(context);
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Code Red Clan"),
+        title: const Text("Rana Sharjeel Ali"),
       ),
       body: Column(
         children: [
